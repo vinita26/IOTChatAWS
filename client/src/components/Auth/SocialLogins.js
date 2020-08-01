@@ -1,4 +1,4 @@
-ecific language governing permissions and limitations under the License.
+/*ecific language governing permissions and limitations under the License.
 */
 
 import React from 'react';
