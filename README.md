@@ -64,7 +64,7 @@ Please note that this project has only been tested on macOS. Windows users may n
 1. Clone the repository
 
 ```
-$ git clone https://github.com/aws-samples/aws-iot-chat-example.git
+$ git clone https://github.com/arunstiwari/aws-iot-chat-app.git
 ```
 
 2. Deploy the backend
@@ -192,6 +192,3 @@ This application opted for the second option by appending the cognito identity i
 * See [Social Logins Guide](docs/social_logins.md) for information on how to enable Facebook and Google login flows
 * See [Mobile Hub Deployment Guide](docs/mobile_hub_deployment.md) to learn how to deploy the application to an S3 bucket and distribute it via Amazon CloudFront's global network of edge cache servers.
 
-## Testing
-
-In both the `api` and `client` directories, `npm run test` can be used to run unit tests using [jest](http://facebook.github.io/jest/)
